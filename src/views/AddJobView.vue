@@ -41,7 +41,7 @@ const handleSubmit = async () => {
   }
 };
 const handleBakToJobs = () => {
-  router.push(`/jobs/`);
+  router.push(`/jobs`);
 };
 </script>
 

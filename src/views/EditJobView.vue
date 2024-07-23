@@ -56,7 +56,7 @@ const handleSubmit = async () => {
 };
 
 const handleBakToJobs = () => {
-  router.push(`/jobs/`);
+  router.push(`/jobs`);
 };
 
 onMounted(async () => {
